@@ -387,21 +387,25 @@ WORKS / REFERENCES
   width: 255px;
   overflow: hidden;
 }
-@media (max-width: 1199px) {
+/*@media (max-width: 1199px) {
   .reference-item {
     width: 205px;
   }
-}
+}*/
 @media (max-width: 991px) {
   .reference-item {
     width: 300px;
   }
 }
 @media (max-width: 350px) {
-  .reference-item {
+
+
+
     width: 260px;
   }
 }
+
+
 .reference-item .reference {
 /*  margin-bottom: 30px;*/
   background: #4fbfa8;
@@ -539,7 +543,7 @@ SHOWCASE
 }
 .showcase .item h4 span {
   font-weight: 100;
-  font-size: 41px;
+  font-size: 28px;
 }
 /*
 

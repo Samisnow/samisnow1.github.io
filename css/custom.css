@@ -1,5 +1,29 @@
 
 /*#nav-toggle { position: absolute; left: 50%; top: 50%; }*/
+/**{
+  border: 1px solid red;
+}*/
+
+.showcase .item h4{
+  text-transform: none;
+  line-height: 1;
+}
+
+.counter1{
+  text-transform: capitalize;
+}
+
+.wrapper{
+  text-align: center;
+}
+
+.reference-item{
+  display:inline-block;
+}
+.navbar-brand{
+
+  font-size: 16px;
+}
 
 #nav-toggle { cursor: pointer; padding: 10px 35px 16px 0px; }
 #nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {

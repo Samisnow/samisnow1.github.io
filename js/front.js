@@ -179,9 +179,9 @@ function masonry() {
     $('#references-masonry').css({visibility: 'visible'});
 
     $('#references-masonry').masonry({
-	itemSelector: '.reference-item:not(.hidden)',
-	isFitWidth: true,
-	isResizable: true,
+	// itemSelector: '.reference-item:not(.hidden)',
+	// isFitWidth: true,
+	// isResizable: true,
 	isAnimated: true,
 	animationOptions: {
 	    duration: 2000,
