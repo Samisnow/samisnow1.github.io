@@ -1386,6 +1386,7 @@ fieldset[disabled] .btn-primary.active {
 /* forms.less */
 label {
   font-weight: normal;
+  font-size: 14px;
 }
 .form-control {
   height: 36px;
