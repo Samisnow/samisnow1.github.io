@@ -143,7 +143,7 @@ UNIVERSAL SECTION STYLES
 }
 @media (max-width: 991px) {
   .text-gray {
-    background: #eeeeee;
+/*    background: #eeeeee;*/
   }
 }
 .text-parallax {
